@@ -1,7 +1,3 @@
-
-[submodule "hass-n8n"]
-	path = hass-n8n
-	url = https://github.com/Sindar-sudo/SindarN8N.git
 [submodule "SindarN8N"]
 	path = SindarN8N
 	url = https://github.com/Sindar-sudo/SindarN8N
